@@ -35,6 +35,10 @@ VeloxerGreen v1.0 es una solución de riego automático para cultivos en espacio
 
 ---
 
+https://github.com/user-attachments/assets/cd212570-bbd0-43a4-8094-7908e3678ebb
+
+
+
 ### 👤 Autor
 
 **Erick Salvador Veloz González**  
